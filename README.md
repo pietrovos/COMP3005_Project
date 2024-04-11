@@ -20,7 +20,7 @@
 2. Populate the tables with initial data using the DML (Data Manipulation Language) scripts provided in the SQL directory on GitHub.
 
 ***Database Configuration***
-Ensure the PostgreSQL database is set up with the required schema. The script connects to the database with the following default credentials:
+-Ensure the PostgreSQL database is set up with the required schema. The script connects to the database with the following default credentials:
 
 - dbname: COMP3005_project
 - user: postgres
@@ -29,6 +29,6 @@ Ensure the PostgreSQL database is set up with the required schema. The script co
 - port: 5432
 - These credentials can be modified in the connect_to_db function within the script.
 
-Contributions
+***Contributions***
 -Pietro Adamvoski
 
